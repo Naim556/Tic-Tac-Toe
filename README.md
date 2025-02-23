@@ -38,4 +38,4 @@ A simple and fun Tic-Tac-Toe game built with Python and `tkinter` for the graphi
    ```bash
    git clone https://github.com/your-username/tic-tac-toe.git
 
-   #Python #TicTacToe #Minimax #tkinter #GameDev
+#Python #TicTacToe #Minimax #tkinter #GameDev
